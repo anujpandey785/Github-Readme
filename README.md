@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujpandey785" alt="anujpandey785" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Data Science**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
-- 💬 Ask me about **Django Html Css**
+- 💬 Ask me about **Django, Html & Css**
 
 - 📫 How to reach me **anujpandey785@gmail.com**
 
