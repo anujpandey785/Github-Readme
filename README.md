@@ -8,7 +8,7 @@ g<h1 align="center">Hi 👋, I'm Anuj</h1>
 
 - 🌱 I’m currently learning **Machine Learning Data Science**
 
-- 💬 Ask me about **Django Html Css **
+- 💬 Ask me about **Django Html Css**
 
 - 📫 How to reach me **anujpandey785@gmail.com**
 
