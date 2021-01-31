@@ -1,4 +1,4 @@
-g<h1 align="center">Hi 👋, I'm Anuj</h1>
+<h1 align="center">Hi 👋, I'm Anuj</h1>
 <h3 align="center">A Open Source Enthusiast passionate about Machine Learning , Data Science and Web Development</h3>
 <h3 align="center">Information Technology Engineering Sophomore from Pune Institute of Computer Technology Pune , India</h3>
 
@@ -6,7 +6,7 @@ g<h1 align="center">Hi 👋, I'm Anuj</h1>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anujpandey785" alt="anujpandey785" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning Data Science**
+- 🌱 I’m currently learning **Machine Learning & Data Science**
 
 - 💬 Ask me about **Django Html & Css**
 
