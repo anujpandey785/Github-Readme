@@ -10,7 +10,9 @@
 
 - 💬 Ask me about **Django Html & Css**
 
-- 📫 How to reach me **anujpandey785@gmail.com**
+- 📫 Reach me at **anujpandey785@gmail.com**
+
+- ⚡ Fun fact **I have probably seen your Favourite Movie :-)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
