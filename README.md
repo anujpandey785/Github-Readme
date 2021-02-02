@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Anuj</h1>
-<h3 align="center">A Open Source Enthusiast passionate about Machine Learning , Data Science and Web Development</h3>
-<h3 align="center">Information Technology Engineering Sophomore from Pune Institute of Computer Technology Pune , India</h3>
+<h3 align="center">Open Source Enthusiast passionate about Machine Learning , Data Science and Web Development</h3>
+<h3 align="center">Information Technology Engineering Sophomore from Pune Institute of Computer Technology, Pune, India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpandey785&label=Profile%20views&color=0e75b6&style=flat" alt="anujpandey785" /> </p>
 
