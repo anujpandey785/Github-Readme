@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujpandey785&label=Profile%20views&color=0e75b6&style=flat" alt="anujpandey785" /> </p>
 
-- 🔭 I’m currently working on **a Social Media Application Made in Django**
+- 🔭 I’m currently working on **a Social Media Application Made Using Django**
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
