@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
-- 💬 Ask me about **Django Html & Css**
+- 💬 Ask me about **Django, Html & Css**
 
 - 📫 Reach me at **anujpandey785@gmail.com**
 
