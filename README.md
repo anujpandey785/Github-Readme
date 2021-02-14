@@ -6,6 +6,8 @@
 
 - 🔭 I’m currently working on **a Social Media Application Made Using Django**
 
+- 🔭 I recently filed my First [Bugzilla Bug](https://bugzilla.mozilla.org/show_bug.cgi?id=1692539)
+
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 💬 Ask me about **Django, Html & Css**
